@@ -1,0 +1,13 @@
+# Build directories and outputs
+build/
+kyber_poc.exe
+*.obj
+*.o
+*.exp
+
+# Local forensic logs and keys
+kyber_keys.txt
+
+# Editor and System files
+.DS_Store
+Thumbs.db
